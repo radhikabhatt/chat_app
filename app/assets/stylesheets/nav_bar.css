@@ -1,0 +1,15 @@
+.welcome_links{
+  float: right;
+  margin-top: -4%;
+}
+
+.navbar-header{
+  background-color: beige;
+  height: 50px;
+  text-align: center;
+}
+
+.alert{
+  padding: 1%;
+  font-family: cursive;
+}
